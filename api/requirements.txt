@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+transformers
+torch
+torchaudio
+numpy
+python-dotenv
+supabase

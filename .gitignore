@@ -1,0 +1,56 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+env/
+venv/
+.venv/
+models/
+frontend/
+node_modules/
+# Environment variables
+.env
+*.env
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# IDE stuff
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# FastAPI/Uvicorn cache
+*.db
+*.sqlite3
+
+# Test/report files
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+.tox/
+.nox/
+.cache/
+.pytest_cache/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Supabase metadata (optional depending on setup)
+.supabase/
+
+# Audio files (if you temporarily store user uploads locally)
+*.wav
+*.mp3
+
+# Personal or sensitive files
+*.pkl
+*.pt
+*.json
+*.csv
